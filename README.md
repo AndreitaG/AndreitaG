@@ -81,7 +81,7 @@ Repositorio del proyecto
 
 <!-- GIF -->
 <td width="45%" align="left">
-  <img src="https://s3.ezgif.com/tmp/ezgif-30d018a9fe0d6cc2.gif" width="300"/>
+  <img src="assets/blueycontact.gif" width="410" />
 </td>
 
 <!-- ICONOS -->
