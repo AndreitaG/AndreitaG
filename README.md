@@ -11,7 +11,7 @@
 <b>¿Quién soy?</b><br><br>
 
 Hola, soy <b>Andrea Grecia Castillo Breña</b>, de Lima, Perú.<br>
-Soy estudiante de Ingeniería de Sistemas, actualmente cursando el <b>6.º ciclo</b> en la Universidad de Lima.<br><br>
+Soy estudiante de Ingeniería de Sistemas, actualmente cursando el <b>7.º ciclo</b> en la Universidad de Lima.<br><br>
 
 Me apasiona la tecnología y programar soluciones funcionales y agradables.<br>
 En mi tiempo libre disfruto ver series, películas y programar cosas random (y a veces chistosas 😄).
